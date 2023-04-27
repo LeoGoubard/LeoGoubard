@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png](https://media.licdn.com/dms/image/C4E16AQGoBSBtupA6Rw/profile-displaybackgroundimage-shrink_350_1400/0/1589108973737?e=1687996800&v=beta&t=IXT9_rUB0c2LFDHL2ONTBLGicC7eyF7gNK5pkMWXzIg)">
 
 <h2> Hey there! I'm Leo.</h2>
 
