@@ -37,9 +37,7 @@
 
 <br/>
 
-<a href="https://github.com/LeoGoubard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGoubard&theme=buefy&layout=compact" />
-</a>
+<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGoubard&show_icons=true&locale=en&layout=compact&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true"" alt="Top Langs" /></p>
 
 <br/>
 
@@ -48,4 +46,6 @@
 <a href="https://www.linkedin.com/in/leogoubard/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Goubard-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:goubardleo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGoubard&show_icons=true&locale=en&layout=compact&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true"" alt="Top Langs" /></p>
+
+<br />
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoGoubard&&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true"" alt="Leo's readme streaks" /></p>
