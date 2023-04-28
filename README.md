@@ -46,6 +46,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/leogoubard/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Goubard-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:goubardleo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:goubardleo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goubardleo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
