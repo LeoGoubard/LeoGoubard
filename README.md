@@ -1,7 +1,6 @@
 <img src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png](https://media.licdn.com/dms/image/C4E16AQGoBSBtupA6Rw/profile-displaybackgroundimage-shrink_350_1400/0/1589108973737?e=1687996800&v=beta&t=IXT9_rUB0c2LFDHL2ONTBLGicC7eyF7gNK5pkMWXzIg)">
 
 <h2> Hey there! I'm Leo.</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LeoGoubard&label=Profile%20views&color=0e75b6&style=flat" alt="joliwood" /> </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing my ideas for usefull (or not) purposes.
