@@ -41,7 +41,6 @@
 <br/>
  <br />
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoGoubard&&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true"" alt="Leo's readme streaks" /></p>
-  ![Leetcode Stats]([https://leetcard.jacoblin.cool/LeoGoubard](https://leetcode.card.workers.dev/LeoGoubard?theme=default&font=baloo&extension=null))
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
